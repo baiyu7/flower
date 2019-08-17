@@ -1,0 +1,100 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?5e0lt3');
+  src:  url('fonts/icomoon.eot?5e0lt3#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?5e0lt3') format('truetype'),
+    url('fonts/icomoon.woff?5e0lt3') format('woff'),
+    url('fonts/icomoon.svg?5e0lt3#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-qq:before {
+  content: "\e900";
+}
+.icon-phone:before {
+  content: "\e942";
+}
+.icon-phone-hang-up:before {
+  content: "\e943";
+}
+.icon-clock:before {
+  content: "\e94e";
+}
+.icon-mobile:before {
+  content: "\e958";
+}
+.icon-bubbles:before {
+  content: "\e96c";
+}
+.icon-bubbles3:before {
+  content: "\e96f";
+}
+.icon-bubbles4:before {
+  content: "\e970";
+}
+.icon-users:before {
+  content: "\e972";
+}
+.icon-user-plus:before {
+  content: "\e973";
+}
+.icon-user-tie:before {
+  content: "\e976";
+}
+.icon-search:before {
+  content: "\e986";
+}
+.icon-sphere:before {
+  content: "\e9c9";
+}
+.icon-ctrl:before {
+  content: "\ea50";
+}
+.icon-whatsapp:before {
+  content: "\ea93";
+}
+.icon-chuzuche:before { content: "\e621"; }
+
+.icon-chuzuchetianchong:before { content: "\e674"; }
+
+.icon-feiji:before { content: "\e60e"; }
+
+.icon-unie641:before { content: "\e679"; }
+
+.icon-hotel:before { content: "\e61b"; }
+
+.icon-icon-test:before { content: "\e602"; }
+
+.icon-waibiduihuan:before { content: "\e60c"; }
+
+.icon-huoche:before { content: "\e603"; }
+
+.icon-icon-test1:before { content: "\e62d"; }
+
+.icon-wangluo:before { content: "\e635"; }
+
+.icon-baoxian:before {
+  content: "\e604";
+
+}
+
+.icon-wifi:before { content: "\f155"; }
+
+
+

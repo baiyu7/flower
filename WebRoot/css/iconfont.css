@@ -1,0 +1,35 @@
+
+
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:18px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chuzuche:before { content: "\e621"; }
+
+.icon-chuzuchetianchong:before { content: "\e674"; }
+
+.icon-feiji:before { content: "\e60e"; }
+
+.icon-unie641:before { content: "\e679"; }
+
+.icon-hotel:before { content: "\e61b"; }
+
+.icon-icon-test:before { content: "\e602"; }
+
+.icon-waibiduihuan:before { content: "\e60c"; }
+
+.icon-huoche:before { content: "\e603"; }
+
+.icon-icon-test1:before { content: "\e62d"; }
+
+.icon-wangluo:before { content: "\e635"; }
+
+.icon-baoxian:before {  content: "\e604";  }
+
+.icon-wifi:before { content: "\f155"; }
+
